@@ -11,6 +11,7 @@ FlutterChatX is a minimal yet modern chat app built with **Flutter** and **Fireb
 - **Responsive UI**: Works seamlessly on mobile devices.
 
 ## Technologies Used
-Flutter
-Firebase Auth
-Firebase Firestore
+
+- Flutter
+- Firebase Auth
+- Firebase Firestore
