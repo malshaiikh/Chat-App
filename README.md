@@ -1,2 +1,2 @@
 # Chat-App
-Simple chat built using Flutter &amp; Firebase. 
+Simple chat app built using Flutter &amp; Firebase. 
